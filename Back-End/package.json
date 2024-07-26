@@ -1,0 +1,11 @@
+{
+  "name": "my-favorite-candles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sex": "node index.js"
+  },
+  "author": "Darchuk Alla",
+  "license": "ISC",
+  "description": ""
+}
